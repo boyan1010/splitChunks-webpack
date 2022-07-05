@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebpack_splitChunks=self.webpackChunkwebpack_splitChunks||[]).push([[713],{939:(s,e,a)=>{a.d(e,{Z:()=>c});const c="data -***************-"},222:(s,e,a)=>{var c=a(294),o=a(935),l=a(939);console.log("React----------",c),console.log("ReactDom---------",o),console.log("data",l.Z)}},s=>{s.O(0,[216],(()=>{return e=222,s(s.s=e);var e}));s.O()}]);
